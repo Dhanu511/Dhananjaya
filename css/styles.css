@@ -91,15 +91,12 @@ hr{
   background-color: #68b0ab;
   padding: 70px 0 10px 0;
 }
-.h3{
-  width: 50%;
-  margin: 10px auto;
-}
 .p1{
   width: 30%;
 }
 .pp{
   margin: 100px auto;
+  font-size: 200%;
 }
 a{
   color:  #62760c;
